@@ -48,8 +48,7 @@ Gated to `ADMIN_EMAILS`. Every write is transactionally audited with full before
 
 ## Screenshots
 
-> _Add screenshot here before publishing._
-
+![AI Spend Dashboard](docs/screenshot.png)
 ## Architecture
 
 ```
